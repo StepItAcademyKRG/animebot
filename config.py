@@ -1,4 +1,4 @@
-TOKEN = "5718147424:AAEHIFnx5WGlIogFcnbrMPzQOO8jR039G8E"
+TOKEN = ""
 LIMIT_PAGE = 30
 BASE_URL = 'https://gogoanime.herokuapp.com'
 RECENT_RELEASE_ANIME_URL=f'{BASE_URL}/recent-release?type=2&page={LIMIT_PAGE}'
