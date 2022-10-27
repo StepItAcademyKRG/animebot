@@ -6,3 +6,6 @@ AnimeBot
 
 ## Screenshots
 
+<p align="center">
+      <img src="https://github.com/StepItAcademyKRG/Images/blob/main/photo_2022-10-27_15-03-47.jpg?raw=true" alt="Project Logo" width="726">
+</p>
