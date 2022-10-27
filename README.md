@@ -29,3 +29,7 @@ AnimeBot
 <p align="center">
       <img src="https://github.com/StepItAcademyKRG/Images/blob/main/photo_2022-10-27_15-05-22.jpg?raw=true" alt="Project Logo" width="726">
 </p>
+
+<p align="center">
+      <img src="https://github.com/StepItAcademyKRG/Images/blob/main/photo_2022-10-27_15-05-51.jpg?raw=true" alt="Project Logo" width="726">
+</p>
